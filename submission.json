@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic, cinematic scene of a tailor shop where a tailor is stitching an extremely tight and overly intricate suit onto a mannequin, the suit fits perfectly but looks unnaturally rigid and over-detailed, another person nearby tries to wear a similar suit but it does not fit at all, fabric stretching and tearing, highly detailed textures, natural lighting, physically realistic environment, no text, no labels, no diagrams, no symbols, photographic style",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "An overly tailored suit fits one mannequin perfectly but fails on another person, representing a model that memorizes training data but cannot generalize."
+}
